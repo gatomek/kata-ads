@@ -5,6 +5,11 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ *  https://github.com/gatomek/kata-ads/blob/main/docs/rsc/example.svg
+ */
+
+
 public class NearestLessThenFromTheLeftAlgorithm {
     public static void main(String[] args) {
 
